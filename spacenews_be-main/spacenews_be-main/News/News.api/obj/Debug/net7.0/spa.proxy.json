@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\intern.nnttruc\\Downloads\\spacenews_be-main\\spacenews_be-main\\News\\News.api",
+"MaxTimeoutInSeconds": "120"
+}
+}

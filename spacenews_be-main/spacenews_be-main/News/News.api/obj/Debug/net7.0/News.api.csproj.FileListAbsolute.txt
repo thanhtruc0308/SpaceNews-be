@@ -1,0 +1,1164 @@
+D:\. NET\News\News.api\bin\Debug\net7.0\appsettings.Development.json
+D:\. NET\News\News.api\bin\Debug\net7.0\appsettings.json
+D:\. NET\News\News.api\bin\Debug\net7.0\spa.proxy.json
+D:\. NET\News\News.api\bin\Debug\net7.0\News.api.exe
+D:\. NET\News\News.api\bin\Debug\net7.0\News.api.deps.json
+D:\. NET\News\News.api\bin\Debug\net7.0\News.api.runtimeconfig.json
+D:\. NET\News\News.api\bin\Debug\net7.0\News.api.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\News.api.pdb
+D:\. NET\News\News.api\bin\Debug\net7.0\AutoMapper.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Azure.Core.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Azure.Identity.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\FluentValidation.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Humanizer.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Build.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Common.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.CodeDom.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\. NET\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.csproj.AssemblyReference.cache
+D:\. NET\News\News.api\obj\Debug\net7.0\spa.proxy.json
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfoInputs.cache
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfo.cs
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.csproj.CoreCompileInputs.cache
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cs
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cache
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.News.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.build.News.api.props
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.News.api.props
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.News.api.props
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets.build.json
+D:\. NET\News\News.api\obj\Debug\net7.0\staticwebassets.development.json
+D:\. NET\News\News.api\obj\Debug\net7.0\scopedcss\bundle\News.api.styles.css
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.csproj.CopyComplete
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.dll
+D:\. NET\News\News.api\obj\Debug\net7.0\refint\News.api.dll
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.pdb
+D:\. NET\News\News.api\obj\Debug\net7.0\News.api.genruntimeconfig.cache
+D:\. NET\News\News.api\obj\Debug\net7.0\ref\News.api.dll
+D:\News\News.api\bin\Debug\net7.0\spa.proxy.json
+D:\News\News.api\bin\Debug\net7.0\appsettings.Development.json
+D:\News\News.api\bin\Debug\net7.0\appsettings.json
+D:\News\News.api\bin\Debug\net7.0\News.api.exe
+D:\News\News.api\bin\Debug\net7.0\News.api.deps.json
+D:\News\News.api\bin\Debug\net7.0\News.api.runtimeconfig.json
+D:\News\News.api\bin\Debug\net7.0\News.api.dll
+D:\News\News.api\bin\Debug\net7.0\News.api.pdb
+D:\News\News.api\bin\Debug\net7.0\AutoMapper.dll
+D:\News\News.api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\News\News.api\bin\Debug\net7.0\Azure.Core.dll
+D:\News\News.api\bin\Debug\net7.0\Azure.Identity.dll
+D:\News\News.api\bin\Debug\net7.0\FluentValidation.dll
+D:\News\News.api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\News\News.api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\News\News.api\bin\Debug\net7.0\Humanizer.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Build.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\News\News.api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\News\News.api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\News\News.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\News\News.api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Common.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\News\News.api\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\News\News.api\bin\Debug\net7.0\System.CodeDom.dll
+D:\News\News.api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\News\News.api\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\News\News.api\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\News\News.api\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\News\News.api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\News\News.api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\News\News.api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\News\News.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\News\News.api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\News\News.api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\News\News.api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\News\News.api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\News\News.api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\News\News.api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\News\News.api\obj\Debug\net7.0\News.api.csproj.AssemblyReference.cache
+D:\News\News.api\obj\Debug\net7.0\spa.proxy.json
+D:\News\News.api\obj\Debug\net7.0\News.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfoInputs.cache
+D:\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfo.cs
+D:\News\News.api\obj\Debug\net7.0\News.api.csproj.CoreCompileInputs.cache
+D:\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cs
+D:\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cache
+D:\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.News.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.build.News.api.props
+D:\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.News.api.props
+D:\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.News.api.props
+D:\News\News.api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\News\News.api\obj\Debug\net7.0\staticwebassets.build.json
+D:\News\News.api\obj\Debug\net7.0\staticwebassets.development.json
+D:\News\News.api\obj\Debug\net7.0\scopedcss\bundle\News.api.styles.css
+D:\News\News.api\obj\Debug\net7.0\News.api.csproj.CopyComplete
+D:\News\News.api\obj\Debug\net7.0\News.api.dll
+D:\News\News.api\obj\Debug\net7.0\refint\News.api.dll
+D:\News\News.api\obj\Debug\net7.0\News.api.pdb
+D:\News\News.api\obj\Debug\net7.0\News.api.genruntimeconfig.cache
+D:\News\News.api\obj\Debug\net7.0\ref\News.api.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\spa.proxy.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\appsettings.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\News.api.exe
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\News.api.deps.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\News.api.runtimeconfig.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\News.api.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\News.api.pdb
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.csproj.AssemblyReference.cache
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\spa.proxy.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfoInputs.cache
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfo.cs
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.csproj.CoreCompileInputs.cache
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.News.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.build.News.api.props
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.News.api.props
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.News.api.props
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\scopedcss\bundle\News.api.styles.css
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.csproj.CopyComplete
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\refint\News.api.dll
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.pdb
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\News.api.genruntimeconfig.cache
+C:\Users\intern.htthanhngan\Desktop\SpaceNewsWeb\News\News.api\obj\Debug\net7.0\ref\News.api.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\appsettings.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\spa.proxy.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\News.api.exe
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\News.api.deps.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\News.api.runtimeconfig.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\News.api.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\News.api.pdb
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.csproj.AssemblyReference.cache
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\spa.proxy.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfoInputs.cache
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.AssemblyInfo.cs
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.csproj.CoreCompileInputs.cache
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.News.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.build.News.api.props
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.News.api.props
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.News.api.props
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\scopedcss\bundle\News.api.styles.css
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.csproj.CopyComplete
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\refint\News.api.dll
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.pdb
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\News.api.genruntimeconfig.cache
+C:\Users\intern.nnttruc\Downloads\spacenews_be-main\spacenews_be-main\News\News.api\obj\Debug\net7.0\ref\News.api.dll

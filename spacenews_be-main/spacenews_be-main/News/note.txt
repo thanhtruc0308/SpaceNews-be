@@ -1,0 +1,22 @@
+create accout 
+
+{
+  "email": "thaonam2@gmail.com",
+  "password": "Thaonam123$",
+  "firstName": "Thao",
+  "lastName": "Nam",
+  "location": "TMA lab 3"
+}
+
+=> sau khi create account thi se dang nhap được
+
+{
+  "username": "thaonam2@gmail.com",
+  "password": "Thaonam123$"
+}
+
+=> sau khi dang nhap thi nhan duoc jwt token
+
+https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login
+
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0aGFvbmFtMkBnbWFpbC5jb20iLCJqdGkiOiI5NDk4ZmExNy02M2QzLTRmZWMtOGU0ZS1iY2NiNjg0MDkyMmMiLCJpYXQiOjE2NzcxMTIwMjksInJvbCI6ImFwaV9hY2Nlc3MiLCJpZCI6IjM3ZTJiOTk1LTIzMmMtNDExNS1hMDI5LTUxOGMzMDM1ODIyNiIsIm5iZiI6MTY3NzExMjAyOSwiZXhwIjoxNjc3MTE5MjI5LCJpc3MiOiJ3ZWJBcGkiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjQ0NDkzLyJ9.Eox58L9BHDcDehl_yhGwvR_gotoh_5rHMdgUMlgC6TQ
